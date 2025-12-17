@@ -1,0 +1,16 @@
+{
+  "name": "pong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "Tom Tiedemann",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^7.3.0"
+  }
+}
